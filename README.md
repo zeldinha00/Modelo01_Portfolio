@@ -1,10 +1,10 @@
 # Modelo01_Portfolio
 
-Modelo de portfólio para seus projetos.
+ :point_right: Modelo de portfólio para seus projetos
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub.
+:point_right: O controle das tarefas desse projeto será realizado no GitHub.
 
 ## Ícones
 - :package: Nova funcionalidade
