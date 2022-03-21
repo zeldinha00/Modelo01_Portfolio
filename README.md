@@ -12,7 +12,9 @@
 - :lady_beetle: correção de bug
 - :checkered_flag: release
 
-## Previa do site
+## Prévia do site
+
+ :point_right: https://zeldinha00.github.io/Modelo01_Portfolio/
 
 ![image](https://user-images.githubusercontent.com/14182590/159287043-e67bc4a9-577e-46ba-aaf0-9c2cdb27ef49.png)
 
