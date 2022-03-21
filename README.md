@@ -11,3 +11,4 @@
 - :up: atualização
 - :lady_beetle: correção de bug
 - :checkered_flag: release
+

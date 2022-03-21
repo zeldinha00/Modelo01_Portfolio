@@ -350,7 +350,7 @@ header {
     padding-left: 1rem;
 }
 
-conhecimento-text {
+.conhecimento-text {
     font-family: var(--font-secundary);
     margin-top: 1rem;
 }
@@ -444,6 +444,10 @@ conhecimento-text {
     border: none;
     box-shadow: 0 0.1rem 0.8rem rgba(0,0,0,0.4);
     cursor: pointer;
+}
+
+.btn:hover{
+    color: #000;
 }
 
 .card-info button{
